@@ -1,0 +1,4 @@
+public class NewSample{
+         int id;
+         String name;
+     }
